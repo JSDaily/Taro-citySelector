@@ -3,6 +3,8 @@
 
 ![](https://ohv0hyr4v.qnssl.com/w.gif)
 
+## 使用说明
+
 ```js
 import { va } from '../utils/validate'
 
